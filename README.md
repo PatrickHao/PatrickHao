@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&theme=light&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&theme=light&layout=compact) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&hide_border=true&theme=light" width="50%">d
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&hide_border=true&theme=light" width="50%">
 
 - 🌱 hey
+- 🔭 I’m currently working on cs
+- 📫 How to reach me: patrickhao@qq.com
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
