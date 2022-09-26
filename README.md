@@ -1,4 +1,14 @@
-### Hi there 👋
+<h3 align="center"> 👋 Hi, my friends </h3>
+
+
+<p align="center">
+  <samp>
+    <a href="https://github.com/patrickhao">github</a> ∙
+    <a href="https://www.cnblogs.com/patrickhao/">blog</a>
+  </samp>
+</p>
+
+___
 
 <!--
 **patrickhao/patrickhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +32,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&hide_border=true&theme=light" width="50%">
 
 - 🌱 hey
-- 🔭 I’m currently working on cs
+- 🔭 I’m currently learning HPC, llvm, ...
 - 📫 How to reach me: patrickhao@qq.com
 
 <!-- 贪吃蛇代码贡献图 -->
