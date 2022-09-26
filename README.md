@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
 
-### 正在学习 🧠 
+### 正在学习 🤔
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
