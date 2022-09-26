@@ -29,11 +29,39 @@ Here are some ideas to get you started:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&theme=light&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&theme=light&layout=compact) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&hide_border=true&theme=light" width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="50%">
 
-- 🌱 hey
-- 🔭 I’m currently learning HPC, llvm, ...
-- 📫 How to reach me: patrickhao@qq.com
+### WELCOME ✨
+
+- 🔭 I’m currently working on HNU
+- 🌱 I’m currently learning HPC, LLVM, ...
+- ⚡ Fall guys ⚡
+
+&emsp;&emsp; 
+
+&emsp;&emsp; 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
+
+### 正在学习 🧠 
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+
+&emsp;&emsp; 
+
+### 常用工具 🧰 
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+&emsp;&emsp; 
+
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
