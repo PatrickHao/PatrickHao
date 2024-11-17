@@ -4,7 +4,7 @@
 <p align="center">
   <samp>
     <a href="https://github.com/patrickhao">github</a> ∙
-    <a href="https://www.cnblogs.com/patrickhao/">blog</a>
+    <a href="https://blog.patrickhao.top">blog</a>
   </samp>
 </p>
 
@@ -34,20 +34,14 @@ Here are some ideas to get you started:
 ### WELCOME ✨
 
 - 🔭 I’m currently working on HNU
-- 🌱 I’m currently learning HPC, LLVM, ...
-- ⚡ Fall guys ⚡
+- 🌱 I’m currently learning Rust, Golang, C++, eBPF, XDP...
+- ⚡ Hearthstone ⚡
 
 &emsp;&emsp; 
 
 &emsp;&emsp; 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
-
-### 正在学习 🤔
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 
 &emsp;&emsp; 
 
