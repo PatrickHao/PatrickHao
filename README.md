@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 &emsp;&emsp; 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="30%"> 
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhao&show_icons=true&hide_border=true&theme=flag-india" width="30%"> -->
 
 &emsp;&emsp; 
 
