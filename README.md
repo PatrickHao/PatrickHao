@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hi, my friends </h3>
+<h3 align="center"> 👋 Hi, my friend </h3>
 
 
 <p align="center">
